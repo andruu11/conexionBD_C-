@@ -1,0 +1,18 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\Prueba_Conexion\bin\Debug\Prueba_Conexion.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\Prueba_Conexion\bin\Debug\Prueba_Conexion.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Prueba_Conexion\bin\Debug\Prueba_Conexion.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\Prueba_Conexion\obj\Debug\Prueba_Conexion.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Prueba_Conexion\obj\Debug\Prueba_Conexion.Form1.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Prueba_Conexion\obj\Debug\Prueba_Conexion.Properties.Resources.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Prueba_Conexion\obj\Debug\Prueba_Conexion.csproj.GenerateResource.Cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Prueba_Conexion\obj\Debug\Prueba_Conexion.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Prueba_Conexion\obj\Debug\Prueba_Conexion.pdb
+D:\ayudantia\proyectos-visualstudio\Prueba_Conexion\Prueba_Conexion\bin\Debug\Prueba_Conexion.exe.config
+D:\ayudantia\proyectos-visualstudio\Prueba_Conexion\Prueba_Conexion\obj\Debug\Prueba_Conexion.exe
+D:\ayudantia\proyectos-visualstudio\Prueba_Conexion\Prueba_Conexion\obj\Debug\Prueba_Conexion.pdb
+D:\ayudantia\proyectos-visualstudio\Prueba_Conexion\Prueba_Conexion\bin\Debug\Prueba_Conexion.exe
+D:\ayudantia\proyectos-visualstudio\Prueba_Conexion\Prueba_Conexion\bin\Debug\Prueba_Conexion.pdb
+D:\ayudantia\proyectos-visualstudio\Prueba_Conexion\Prueba_Conexion\obj\Debug\Prueba_Conexion.csprojResolveAssemblyReference.cache
+D:\ayudantia\proyectos-visualstudio\Prueba_Conexion\Prueba_Conexion\obj\Debug\Prueba_Conexion.Form1.resources
+D:\ayudantia\proyectos-visualstudio\Prueba_Conexion\Prueba_Conexion\obj\Debug\Prueba_Conexion.Properties.Resources.resources
+D:\ayudantia\proyectos-visualstudio\Prueba_Conexion\Prueba_Conexion\obj\Debug\Prueba_Conexion.csproj.GenerateResource.Cache
